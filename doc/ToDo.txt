@@ -1,0 +1,83 @@
+
+Graphics:
+
+I. Tiles
+II. Maps
+X. Screen Edge Transitions
+III. Sprites
+IV. Game Entities
+    A. Game Physics
+        -Walkable vs Unwalkable tiles
+	-Falling Animation
+	-Water
+    B. Entity Interactions
+	1. Player with Non-character Tiles
+        -Doors
+	-Signs
+	-Chests
+	-Grass
+	-Rocks
+	-Holes in the ground
+	2. Player with NPCs
+	3. NPCs with NPCs
+	
+
+
+
+
+
+-Make videogame
+--Plot stuff
+--Graphic stuff
+---Sprites
+----NPCs
+-----Friends
+------Randall //heals//
+------Betty //fight her first, then she is good; may harm you sometimes//
+------Carmelo //heals, shop//
+------Richardson
+-----Foes
+------Common enemies
+-------Bees
+-------Seniors
+------Minibosses
+-------Delta
+-------Omega
+-------Eresh
+------Bosses
+-------Jennifer
+-------Priscilla
+-------Three //can summon a horde of seniors//
+-------Emmanuel
+------Final boss
+-------Rose
+￼----PCs
+-----Mell
+-----Andy
+-----Loully
+----- //fourth pc//
+---Fields //each area is 256 pixels wide and long, each block is 16 pixels wide and long//
+----Overworld
+----Suboverworld
+-----Shakeys
+------Officin shop
+------Classrooms
+------Lab
+------Basement //Behind Rose’s desk is a staircase//
+-----Inter
+------Classrooms
+------Library
+------Theater
+-----Canch
+-----Capill
+-----Cafetery
+--Sound stuff
+---Sound effects
+---Background music
+--Mechanic stuff
+---Stats
+￼----HP
+----PP
+----SP
+---Level Up
+--Testing stuff
